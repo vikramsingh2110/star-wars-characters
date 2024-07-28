@@ -1,6 +1,6 @@
 # Star Wars Characters React Application
 
-This React application fetches a list of Star Wars characters from a public API (`https://swapi.dev/`) and provides features like pagination, loading indicators, error handling, character details modal, search and filter functionality, JWT authentication, and integration testing. The UI is designed using Tailwind CSS.
+This React application fetches a list of Star Wars characters from a public API (`https://swapi.dev/`) and provides features like pagination, loading indicators, error handling, character details modal, search and filter functionality and JWT authentication. The UI is designed using Tailwind CSS.
 
 ## Features
 
